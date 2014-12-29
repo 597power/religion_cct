@@ -1,7 +1,7 @@
 //
 // # Made By Jonathan Marcello
 //
-// A simple chat server using Socket.IO, Express, and Async.
+// A fun team game for my CCT
 //
 var http = require('http');
 var path = require('path');
